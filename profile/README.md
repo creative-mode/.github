@@ -15,6 +15,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./relatorio-repositorios-dark.svg"><img alt="Atividade por repositório" src="./relatorio-repositorios-light.svg" width="100%"></picture>
 
-<sub>Atualizado automaticamente todas as segundas-feiras · 31 out 2026</sub>
+<sub>Atualizado automaticamente todas as segundas-feiras · 2 nov 2026</sub>
 
 <!-- relatorio:fim -->
